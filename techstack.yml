@@ -1,7 +1,8 @@
 repo_name: isaac1102/backend-survival-week07
 report_id: 8ec415d05fc6cd29499660d99a1d41e6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T07:56:32+00:00'
+timestamp: '2024-01-05T08:33:17+00:00'
 requested_by: isaac1102
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -37,7 +40,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -65,7 +69,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/6749/styled-components.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -77,6 +81,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/3105/h2-logo_square_400x400.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -88,6 +93,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -100,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -111,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -120,6 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/.github/workflows/ci.yml
   detection_source: ".github/workflows/ci.yml"
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -132,7 +141,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: gradlew.bat
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
+  detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
 - name: Jest
@@ -145,7 +155,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -159,7 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -171,6 +181,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -183,6 +194,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/src/main/resources/application.yml
   detection_source: src/main/resources/application.yml
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -192,6 +204,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/index.html
   detection_source: web/index.html
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -204,7 +217,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -218,7 +231,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -232,7 +245,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -247,7 +260,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -261,7 +274,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -275,7 +288,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16609/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -289,7 +302,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -303,7 +316,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -317,7 +330,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -331,7 +344,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -345,7 +358,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -359,7 +372,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -373,7 +386,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -387,7 +400,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -401,7 +414,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: web/package-lock.json
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/web/package-lock.json
   detection_source: web/package.json
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -413,6 +426,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -424,6 +438,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -435,6 +450,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -447,6 +463,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
@@ -459,6 +476,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/isaac1102/backend-survival-week07/blob/main/build.gradle
   detection_source: build.gradle
   last_updated_by: noah
   last_updated_on: 2023-03-15 06:18:50.000000000 Z
